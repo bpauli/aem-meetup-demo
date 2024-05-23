@@ -140,6 +140,12 @@
         "multi": false
       },
       {
+        "component": "text",
+        "name": "imageAlt",
+        "label": "Alt",
+        "value": ""
+      },
+      {
         "component": "richtext",
         "name": "text",
         "value": "",
